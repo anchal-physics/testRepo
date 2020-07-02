@@ -1,4 +1,0 @@
-file1_TimeSeries_1234.txt 12
-file2_TimeSeries_5678.txt 12
-file1_TimeSeries_1234.txt 12
-file2_TimeSeries_5678.txt 12
